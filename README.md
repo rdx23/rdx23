@@ -6,7 +6,7 @@ Hi 👋 My name is Rahul Dora
 Web Developer
 -------------
 
-<img align="right" alt="Coding" width="400" src="[https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"](https://www.google.com/search?sca_esv=7b6da075e491d3ae&sca_upv=1&sxsrf=ADLYWIK7NXvhm9Jm5DwMtYS7xkVqw3El8Q:1722841966627&q=programming+animated+coding+gif+for+github&uds=ADvngMgtiFEu3efgeoec760IkvNy-cSVscs-RkOR-NBF6qxx3yPwblSkXGgrKWaXIs7Oz-4Y2080ydAfbwJ_n3o9mBXEDZ-8mKj9eopgCE4paPe9Lc_-jkqOBAzYuL9zPJa1e9ewQ-2pnpaOBEOPBxHY4RlyzmjLbw&udm=2&sa=X&ved=2ahUKEwiW67K7pt2HAxUAyzgGHXYmDx4QxKsJegQIDBAB&ictx=0&biw=1280&bih=638&dpr=1.5#vhid=gjV-fY87U3IhAM&vssid=mosaic)>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dorarahul2002@gmail.com](mailto:dorarahul2002@gmail.com)
