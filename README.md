@@ -6,7 +6,8 @@ Hi 👋 My name is Rahul Dora
 Web Developer
 -------------
 
-<img align="right" alt="Coding" width="400" src="![Uploading 225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif…]()
+<img align="right" alt="Coding" width="400" src="![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/8df77309-b34f-43f4-bf9f-27c12b7630af)
+"
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dorarahul2002@gmail.com](mailto:dorarahul2002@gmail.com)
