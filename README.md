@@ -6,10 +6,6 @@ Hi 👋 My name is Rahul Dora
 Web Developer
 -------------
 
-<p align="right">
-  <img src="![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/7dbd4f87-ab19-4197-a02e-022f018b4cae)
-" alt="Developer Image" width="150" align="left" />
-</p>
 
 
 * 🌍  I'm based in India
