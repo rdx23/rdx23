@@ -6,7 +6,7 @@ Hi 👋 My name is Rahul Dora
 Web Developer
 -------------
 
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="400" src="[https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dorarahul2002@gmail.com](mailto:dorarahul2002@gmail.com)
