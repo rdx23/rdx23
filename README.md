@@ -14,6 +14,7 @@ Web Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dorarahul2002@gmail.com](mailto:dorarahul2002@gmail.com)
 * 🧠  I'm learning MERN stack Development
+* ⚡  I'm a sports person and love playing cricket.
 
 
 <a href="https://www.github.com/rdx23" target="_blank" rel="noreferrer"><img
