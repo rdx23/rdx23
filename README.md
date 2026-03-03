@@ -80,7 +80,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="70%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap,materialui,redux,shadcn&perline=6" />
 </td>
