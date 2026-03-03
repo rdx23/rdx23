@@ -72,7 +72,7 @@
 <p align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="70%" align="center">
 <h3>💻 Programming Languages</h3>
 
  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,typescript&perline=6" />
