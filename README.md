@@ -9,6 +9,7 @@
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdx23&label=Profile%20views&color=0e75b6&style=flat" alt="rdx23" /> </p>
 
   <p>
     I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
@@ -17,7 +18,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:dorarahul2002@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:dorarahul2002@gmail.com"><img src="https://img.shields.io/badge/📧_dorarahul2002@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -105,7 +106,7 @@
 <div align="center">
   <br/>
   <img src="https://streak-stats.demolab.com?user=rdx23&theme=dark&hide_border=true" alt="Streak" />
-  <a href="http://www.github.com/rdx23"><img src="https://github-readme-stats.vercel.app/api?username=rdx23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rdx23's GitHub stats" /></a>
+ 
 </div>
 
 
