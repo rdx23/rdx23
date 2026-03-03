@@ -34,23 +34,23 @@
   </a> 
 
   <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>  -->
 
   <a href="https://github.com/rdx23/">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+   <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
   <a href="https://www.linkedin.com/in/dorarahul/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+   <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 
  
