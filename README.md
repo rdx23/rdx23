@@ -72,7 +72,7 @@
 <p align="center">
 <table>
 <tr>
-<td width="75%" align="center">
+<td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,typescript&perline=6" />
@@ -80,7 +80,7 @@
 
 </td>
 
-<td width="75%" align="center">
+<td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap,materialui,redux,shadcn&perline=6" />
 </td>
@@ -89,14 +89,14 @@
 
 </tr>
 <tr>
-<td width="75%" align="center">
+<td width="50%" align="center">
   <h3>🗄️ Databases</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql&perline=6" />
 <br/><br/>
 
 </td>
 
-<td width="75%" align="center">
+<td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
     <img src="https://skillicons.dev/icons?i=git,figma,vscode,github,postman,docker,kubernetes,netlify,npm,vercel,vite&perline=6" />
 </td>
