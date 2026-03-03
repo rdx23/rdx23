@@ -31,13 +31,11 @@
 <div >
 
 <p align="left">
-   <!-- <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a> 
+ 
 
   <a href="https://discord.com/users/midhun_n">
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a>  -->
+  </a>  
 
   <a href="https://github.com/rdx23/">
     <img src="https://skillicons.dev/icons?i=github" />
@@ -125,9 +123,9 @@
 
 ## ❤️ Support Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/midhun_mike">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
-</p>
+</p> -->
 
