@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 
-   <img align="right" width="350" src="https://komarev.com/ghpvc/?username=rdx23&label=Profile%20views&color=0e75b6&style=flat" alt="rdx23" />
+   
 
 <h3>🌐 Socials</h3>
   
@@ -56,7 +56,8 @@
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+ 
+  <img  src="https://komarev.com/ghpvc/?username=rdx23&label=Profile%20views&color=0e75b6&style=flat" alt="rdx23" />
 </div>
 
 <br clear="all" />
