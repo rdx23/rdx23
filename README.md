@@ -77,7 +77,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,typescript&perline=6" />
 <br/><br/>
 
 </td>
@@ -93,14 +93,14 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql&perline=6" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,github,postman,docker,kubernetes,netlify,npm,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,github,postman,docker,kubernetes,netlify,npm,vercel,vite&perline=6" />
 </td>
 </tr>
 </table>
