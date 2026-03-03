@@ -9,7 +9,8 @@
 
 <div align="left">
  
-  <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" /> </p>
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
     I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
