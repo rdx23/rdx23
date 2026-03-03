@@ -8,8 +8,8 @@
 <h3>Full Stack Developer | MERN </h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://komarev.com/ghpvc/?username=rdx23&label=Profile%20views&color=0e75b6&style=flat" alt="rdx23" />
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdx23&label=Profile%20views&color=0e75b6&style=flat" alt="rdx23" /> </p>
+ 
+  <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" /> </p>
 
   <p>
     I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
@@ -22,6 +22,8 @@
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
+
+   <img align="right" width="350" src="https://komarev.com/ghpvc/?username=rdx23&label=Profile%20views&color=0e75b6&style=flat" alt="rdx23" />
 
 <h3>🌐 Socials</h3>
   
