@@ -5,7 +5,7 @@
   Hi, I'm <strong>Rahul Dora</strong>
 </h1>
 
-<h3 align="center">Full Stack Developer | MERN Stack Developer | React.js Developer</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Frontend Developer | Software Develope </h3>
 
 <p align="center">
   <a href="https://rahulportfolio-orpin.vercel.app/">
@@ -42,7 +42,7 @@ I enjoy building clean, user-friendly digital experiences and solving real-world
 ### Open To
 
 - Frontend Developer
-- React.js Developer
+- Software Developer
 - MERN Stack Developer
 - Full Stack Developer
 
@@ -76,14 +76,18 @@ I enjoy building clean, user-friendly digital experiences and solving real-world
 
 ---
 
-# AI / ML Expertise
+# Core Expertise
 
-| Domain | Proficiency | Details |
-|----------|------------|------------|
-| Generative AI | Intermediate | Prompt Engineering & AI Assisted Development |
-| Machine Learning | Beginner | Model Training & Data Processing Fundamentals |
-| Data Analysis | Intermediate | Data Visualization & Insights |
-| AI Tools | Intermediate | ChatGPT, Claude, GitHub Copilot |
+| Area | Skills |
+|--------|----------|
+| Frontend Development | React.js, Next.js, JavaScript, TypeScript |
+| Backend Development | Node.js, Express.js |
+| Database Management | MongoDB, MySQL, PostgreSQL |
+| API Development | REST APIs, Authentication, JWT |
+| State Management | Redux, Context API |
+| UI Development | Tailwind CSS, Bootstrap, Material UI |
+| Tools & DevOps | Git, GitHub, Docker, Postman |
+| Deployment | Vercel, Netlify, Render |
 
 ---
 
@@ -266,7 +270,4 @@ Open To:
   - Full Stack Developer
 
 
-Connect With Me
-<p align="center"> <a href="mailto:dorarahul2002@gmail.com"> <img src="https://img.shields.io/badge/Gmail-dorarahul2002@gmail.com-EA4335?style=for-the-badge&logo=gmail"/> </a> <a href="https://www.linkedin.com/in/dorarahul/"> <img src="https://img.shields.io/badge/LinkedIn-Rahul_Dora-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/rdx23"> <img src="https://img.shields.io/badge/GitHub-rdx23-181717?style=for-the-badge&logo=github"/> </a> <a href="https://rahulportfolio-orpin.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel"/> </a> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
